@@ -1,0 +1,38 @@
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.exe
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.deps.json
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.runtimeconfig.json
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.runtimeconfig.dev.json
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.dll
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\ref\VisualScreen.dll
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.pdb
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.AssemblyReference.cache
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.Form1.resources
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.GenerateResource.cache
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.AssemblyInfoInputs.cache
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.AssemblyInfo.cs
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.CoreCompileInputs.cache
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.dll
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\ref\VisualScreen.dll
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.pdb
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.genruntimeconfig.cache
+C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.frmScreen.resources
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.AssemblyReference.cache
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.Form1.resources
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.frmScreen.resources
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.GenerateResource.cache
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.GeneratedMSBuildEditorConfig.editorconfig
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.AssemblyInfoInputs.cache
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.AssemblyInfo.cs
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.CoreCompileInputs.cache
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.pdb
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.exe
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.deps.json
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.runtimeconfig.json
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.runtimeconfig.dev.json
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\VisualScreen.pdb
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\refint\VisualScreen.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.genruntimeconfig.cache
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\ref\VisualScreen.dll
