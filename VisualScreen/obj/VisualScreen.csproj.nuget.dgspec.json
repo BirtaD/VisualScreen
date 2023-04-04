@@ -44,6 +44,20 @@
       "frameworks": {
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "DevExpress.Data": {
+              "target": "Package",
+              "version": "[22.2.5, )"
+            },
+            "MediaBrowser.Common": {
+              "target": "Package",
+              "version": "[4.7.9, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[5.0.0.2578, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

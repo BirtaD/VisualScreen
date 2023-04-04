@@ -6,4 +6,10 @@
     <UseWindowsForms>true</UseWindowsForms>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="DevExpress.Data" Version="22.2.5" />
+    <PackageReference Include="MediaBrowser.Common" Version="4.7.9" />
+    <PackageReference Include="Xamarin.Forms" Version="5.0.0.2578" />
+  </ItemGroup>
+
 </Project>

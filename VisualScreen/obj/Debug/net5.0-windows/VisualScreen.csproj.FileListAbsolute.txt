@@ -36,3 +36,10 @@ D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\refint\VisualScreen.dll
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.genruntimeconfig.cache
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\ref\VisualScreen.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\DevExpress.Data.v22.2.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\MediaBrowser.Common.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\MediaBrowser.Model.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\Xamarin.Forms.Core.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\Xamarin.Forms.Platform.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\Xamarin.Forms.Xaml.dll
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.CopyComplete

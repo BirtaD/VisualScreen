@@ -34,6 +34,7 @@ namespace VisualScreen
             textBoxIP = new System.Windows.Forms.TextBox();
             label1 = new System.Windows.Forms.Label();
             panel2 = new System.Windows.Forms.Panel();
+            txtLoading = new System.Windows.Forms.Label();
             btnUpdate = new System.Windows.Forms.Button();
             buttonUnselect = new System.Windows.Forms.Button();
             buttonSelect = new System.Windows.Forms.Button();
@@ -85,6 +86,7 @@ namespace VisualScreen
             // panel2
             // 
             panel2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            panel2.Controls.Add(txtLoading);
             panel2.Controls.Add(btnUpdate);
             panel2.Controls.Add(buttonUnselect);
             panel2.Controls.Add(buttonSelect);
@@ -94,6 +96,16 @@ namespace VisualScreen
             panel2.Name = "panel2";
             panel2.Size = new System.Drawing.Size(380, 348);
             panel2.TabIndex = 1;
+            // 
+            // txtLoading
+            // 
+            txtLoading.AutoSize = true;
+            txtLoading.Location = new System.Drawing.Point(164, 72);
+            txtLoading.Name = "txtLoading";
+            txtLoading.Size = new System.Drawing.Size(38, 15);
+            txtLoading.TabIndex = 4;
+            txtLoading.Text = "label2";
+            txtLoading.Visible = false;
             // 
             // btnUpdate
             // 
@@ -167,6 +179,7 @@ namespace VisualScreen
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             panel2.ResumeLayout(false);
+            panel2.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -183,6 +196,7 @@ namespace VisualScreen
         private System.Windows.Forms.TextBox textBoxIP;
         private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Label txtLoading;
     }
 }
 
