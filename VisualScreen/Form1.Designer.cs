@@ -41,6 +41,7 @@ namespace VisualScreen
             listBox2 = new System.Windows.Forms.ListBox();
             listBox1 = new System.Windows.Forms.ListBox();
             button2 = new System.Windows.Forms.Button();
+            comboBox1 = new System.Windows.Forms.ComboBox();
             panel1.SuspendLayout();
             panel2.SuspendLayout();
             SuspendLayout();
@@ -165,11 +166,20 @@ namespace VisualScreen
             button2.UseVisualStyleBackColor = true;
             button2.Click += button2_Click;
             // 
+            // comboBox1
+            // 
+            comboBox1.FormattingEnabled = true;
+            comboBox1.Location = new System.Drawing.Point(38, 165);
+            comboBox1.Name = "comboBox1";
+            comboBox1.Size = new System.Drawing.Size(121, 23);
+            comboBox1.TabIndex = 3;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(601, 434);
+            Controls.Add(comboBox1);
             Controls.Add(button2);
             Controls.Add(panel2);
             Controls.Add(panel1);
@@ -197,6 +207,7 @@ namespace VisualScreen
         private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label txtLoading;
+        private System.Windows.Forms.ComboBox comboBox1;
     }
 }
 

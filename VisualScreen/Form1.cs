@@ -23,10 +23,8 @@ namespace VisualScreen
             InitializeComponent();
             Ping_all();
         }
-
         private void Form1_Load(object sender, EventArgs e)
         {
-
         }
 
         private void label1_Click(object sender, EventArgs e)
@@ -63,8 +61,8 @@ namespace VisualScreen
 
                 string ping_var = array[0] + "." + array[1] + "." + array[2] + "." + i;
 
-                //time in milliseconds           
-                Ping(ping_var, 4, 4000);
+                //time in milliseconds
+                Ping(ping_var, 1, 1000);
 
             }
 
@@ -84,9 +82,7 @@ namespace VisualScreen
                     }
                     catch
                     {
-                        // Do nothing and let it try again until the attempts are exausted.
-                        // Exceptions are thrown for normal ping failurs like address lookup
-                        // failed.  For this reason we are supressing errors.
+                        MessageBox.Show("rossz ip");
                     }
                 }).Start();
             }
@@ -98,20 +94,14 @@ namespace VisualScreen
             {
                 string hostname = GetHostName(ip);
                 string macaddres = GetMacAddress(ip);
-                string[] arr = new string[3];
-
                 //store all three parameters to be shown on ListView
-                arr[0] = ip;
-                arr[1] = hostname;
-
                 // Logic for Ping Reply Success
-                ListViewItem item;
                 if (this.InvokeRequired)
                 {
 
                     this.Invoke(new Action(() =>
                     {
-                        listBox1.Items.Add(hostname);
+                        listBox1.Items.Add(ip);
                     }));
                 }
             }
@@ -169,7 +159,16 @@ namespace VisualScreen
 
         private void buttonAddList_Click(object sender, EventArgs e)
         {
-
+            try
+            {
+                string ipadd = comboBox1.Text;
+                Ping(ipadd, 1, 4000);
+                comboBox1.Items.Add(ipadd);
+            }
+            catch
+            {
+                MessageBox.Show("Rossz IP-címet adott meg!");
+            }
         }
 
         private void buttonSelect_Click(object sender, EventArgs e)
