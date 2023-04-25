@@ -31,7 +31,6 @@ namespace VisualScreen
         {
             panel1 = new System.Windows.Forms.Panel();
             buttonAddList = new System.Windows.Forms.Button();
-            textBoxIP = new System.Windows.Forms.TextBox();
             label1 = new System.Windows.Forms.Label();
             panel2 = new System.Windows.Forms.Panel();
             txtLoading = new System.Windows.Forms.Label();
@@ -49,8 +48,8 @@ namespace VisualScreen
             // panel1
             // 
             panel1.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            panel1.Controls.Add(comboBox1);
             panel1.Controls.Add(buttonAddList);
-            panel1.Controls.Add(textBoxIP);
             panel1.Controls.Add(label1);
             panel1.Location = new System.Drawing.Point(3, 4);
             panel1.Name = "panel1";
@@ -66,13 +65,6 @@ namespace VisualScreen
             buttonAddList.Text = "Add List";
             buttonAddList.UseVisualStyleBackColor = true;
             buttonAddList.Click += buttonAddList_Click;
-            // 
-            // textBoxIP
-            // 
-            textBoxIP.Location = new System.Drawing.Point(54, 5);
-            textBoxIP.Name = "textBoxIP";
-            textBoxIP.Size = new System.Drawing.Size(100, 23);
-            textBoxIP.TabIndex = 1;
             // 
             // label1
             // 
@@ -169,7 +161,7 @@ namespace VisualScreen
             // comboBox1
             // 
             comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new System.Drawing.Point(38, 165);
+            comboBox1.Location = new System.Drawing.Point(56, 5);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new System.Drawing.Size(121, 23);
             comboBox1.TabIndex = 3;
@@ -179,7 +171,6 @@ namespace VisualScreen
             AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             ClientSize = new System.Drawing.Size(601, 434);
-            Controls.Add(comboBox1);
             Controls.Add(button2);
             Controls.Add(panel2);
             Controls.Add(panel1);
@@ -203,7 +194,6 @@ namespace VisualScreen
         private System.Windows.Forms.ListBox listBox2;
         private System.Windows.Forms.ListBox listBox1;
         private System.Windows.Forms.Button buttonAddList;
-        private System.Windows.Forms.TextBox textBoxIP;
         private System.Windows.Forms.Button btnUpdate;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label txtLoading;
