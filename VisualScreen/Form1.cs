@@ -98,7 +98,6 @@ namespace VisualScreen
                 // Logic for Ping Reply Success
                 if (this.InvokeRequired)
                 {
-
                     this.Invoke(new Action(() =>
                     {
                         listBox1.Items.Add(ip);
