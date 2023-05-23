@@ -18,7 +18,6 @@ C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0
 C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.genruntimeconfig.cache
 C:\Users\Diák\Documents\Birta Dávid\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.frmScreen.resources
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.AssemblyReference.cache
-D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.Form1.resources
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.frmScreen.resources
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.GenerateResource.cache
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.GeneratedMSBuildEditorConfig.editorconfig
@@ -43,3 +42,4 @@ D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\Xamarin.Forms.Platform.dll
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\bin\Debug\net5.0-windows\Xamarin.Forms.Xaml.dll
 D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.csproj.CopyComplete
+D:\programozás\VisualScreen\VisualScreen\VisualScreen\obj\Debug\net5.0-windows\VisualScreen.frmMain.resources
